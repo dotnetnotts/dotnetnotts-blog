@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing Cross Platform Games with MonoGame and .NET - Stephen Haunts.
-description: "."
+description: "Stephen walks us through his past career as a game developer and how to write fun games using MonoGame. This talk included both theory and demos."
 date: 2020-09-01
 cover: "/assets/header-image.png"
 author: Jessica White
@@ -20,9 +20,6 @@ share: true
 
 
 # Talk Summary
-
-
-## Talk Abstract
 
 Writing games is fun. Writing games also makes you think in a different way to web development, or the development of enterprise software. Even though we have game engines like Unity, Godot, and Defold; as a C# and .NET Developer, it is sometimes fun to go a little lower level and write the engine yourself.
 
@@ -62,12 +59,19 @@ Stephen is also the host of the popular business podcast, the Side Hustle Succes
 
 # Speaker Provided Resources
 
+- [MonoGame](https://www.monogame.net/)
 - [ExoGame2D](https://github.com/stephenhaunts/ExoGame2D)
-- 
+- [Godot](https://godotengine.org/)
+- [Defold](https://defold.com/)
+
 
 <br/>
 
 # Extra Links
+
+- [Phaser.IO](http://phaser.io/)
+- [Unity](https://unity.com/solutions/game)
+- [Unreal Engine](https://www.unrealengine.com/en-US/)
 
 <br/>
 

@@ -61,6 +61,8 @@ The aim was, by the end of the session, attendees would have the knowledge to bu
 
 - [Martins Twitter](https://twitter.com/thebeebs)
 - [Martins Website](https://thebeebs.net/)
+- [Blazor Voting Demo](https://github.com/thebeebs/BlazorVotingDemo)
+- [AWS Summit London case study: Going Serverless at Comic Relief](https://medium.com/comic-relief/aws-summit-london-case-study-going-serverless-at-comic-relief-51a22c15e398)
 
 <br/>
 

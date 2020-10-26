@@ -4,6 +4,7 @@ title: The October 2020 Meetup
 description: "This online event had two amazing talks: Building a real-time serverless app in Blazor using AWS by Martin Beeby and Zero to Mobile Hero - Intro to Xamarin and Azure Cognitive Services by Luce Carter."
 date: 2020-10-01
 cover: "/assets/header-image.png"
+image: "assets/posts/2020-11-01/martin.png"
 author: Jessica White
 categories: [past-talks]
 comments: false

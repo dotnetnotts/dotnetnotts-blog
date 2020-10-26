@@ -4,6 +4,7 @@ title: The September 2020 Meetup
 description: "This online meetup featured the talk Writing Cross Platform Games with MonoGame and .NET by Stephen Haunts. Stephen walked us through his past career as a game developer and how to write fun games using MonoGame. This talk included both theory and demos."
 date: 2020-10-01
 cover: "/assets/header-image.png"
+image: "assets/posts/2020-10-01/stephen.png"
 author: Jessica White
 categories: [past-talks]
 comments: false

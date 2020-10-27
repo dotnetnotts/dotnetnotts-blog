@@ -31,7 +31,7 @@ This blog contains a short summary of the presenters and their talks, plus usefu
 
 <br/>
 
-#### [Here is a link to the YouTube recording of this event]()
+#### [Here is a link to the YouTube recording of this event](https://www.youtube.com/watch?v=S7aI6JYLhkI)
 
 <br/>
 
@@ -100,6 +100,7 @@ This talk included slides, demos, code samples, live coding and the aim was to h
 
 - [Luces Twitter](https://twitter.com/lucecarter1)
 - [Luces Website](https://lucecarter.co.uk/)
+- [Body Language Assistant Demo - GitHub](https://github.com/LuceCarter/BodyLanguageAssistant_Demo)
 
 <br/>
 

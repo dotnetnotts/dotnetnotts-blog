@@ -25,7 +25,7 @@ Stephen kindly joined us at .NET Notts in September 2020 to walk us through how 
 
 <br/>
 
-#### [Here is a link to the YouTube recording of this event]()
+#### [Here is a link to the YouTube recording of this event](https://www.youtube.com/watch?v=u8GdIRtO48w)
 
 <br/>
 

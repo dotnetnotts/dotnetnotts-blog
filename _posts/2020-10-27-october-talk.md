@@ -2,9 +2,9 @@
 layout: post
 title: The October 2020 Meetup
 description: "This online event had two amazing talks: Building a real-time serverless app in Blazor using AWS by Martin Beeby and Zero to Mobile Hero - Intro to Xamarin and Azure Cognitive Services by Luce Carter."
-date: 2020-10-01
+date: 2020-10-27
 cover: "/assets/header-image.png"
-image: "assets/posts/2020-11-01/martin.png"
+image: "assets/posts/2020-10-27/martin.png"
 author: Jessica White
 categories: [past-talks]
 comments: false
@@ -46,7 +46,7 @@ His primary focus is on .NET applications and has worked as a C# and VB develope
 Prior to joining AWS, Martin worked for Oracle and Microsoft as a developer evangelist and software development engineer.
 
 <br/>
-<img src="/assets/posts/2020-11-01/martin.png" alt="A screen shot of Martin pointing at a picture of him presenting" width="100%"/>
+<img src="/assets/posts/2020-10-27/martin.png" alt="A screen shot of Martin pointing at a picture of him presenting" width="100%"/>
 <center>
 <i>Infinity Beebs - the intro screen for Martin</i>
 </center>
@@ -78,7 +78,7 @@ Luce is a proudly neurodiverse Microsoft MVP and software developer based in Man
 When not writing mobile apps for fun in her spare time, she runs the [Manchester Xamarin User Group](https://www.meetup.com/Manchester-Xamarin-User-Group/), mentors for [Code First Girls](https://codefirstgirls.org.uk/), writes for the [Xamarin Weekly newsletter](http://weeklyxamarin.com/), edits [Montemagno.com](https://montemagno.com/) and speaks at local user groups.
 
 <br/>
-<img src="/assets/posts/2020-11-01/luce.png" alt="A screen shot of Luce presenting online at .NET Notts" width="100%"/>
+<img src="/assets/posts/2020-10-27/luce.png" alt="A screen shot of Luce presenting online at .NET Notts" width="100%"/>
 <center>
 <i>Luce presenting online at .NET Notts</i>
 </center>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The January 2021 Meetup
-description: ""
+description: "The very first event of the year hosted the brilliant Rachel Appel who walked us through Software Product Line Engineering with the decisions made by JetBrains around their products as a key example."
 date: 2021-01-27
 cover: "/assets/header-image.png"
 image: "assets/posts/2021-01-27/rachel.png"
@@ -34,7 +34,7 @@ share: true
 
 ## About Rachel Appel
 
-Rachel currently works for JetBrains as a Developer Advocate. She has been in the business of creating software for over 25 years, as an author, mentor, and speaker at top industry conferences such as Microsoft’s //BUILD, Øredev, Techorama, SDD and others. During her career, she has worked on projects of all sizes from the smallest of apps to the largest enterprise systems at some of the world’s leading companies.
+Rachel currently works for JetBrains as a Developer Advocate. She has been in the business of creating software for over 25 years, as an author, mentor, and speaker at top industry conferences such as [Microsoft’s //BUILD](), [Øredev](), [Techorama](), [SDD]() and others. During her career, she has worked on projects of all sizes from the smallest of apps to the largest enterprise systems at some of the world’s leading companies.
 
 Rachel’s expertise is in web development on the Microsoft stack, specifically Azure Functions, http://ASP.NET MVC, Web Forms, SignalR, C#, HTML, CSS, JavaScript, and TypeScript. Her hobbies include science, reading, languages, and travel.
 
@@ -44,9 +44,9 @@ Instead of implementing a product line, many companies create multiple, disparat
 
 ## Rachels Provided Resources
 
-Twitter: @rachelappel
-LinkedIn https://linkedin.com/in/rachelappel/
-Blog: https://rachelappel.com
+- [Twitter](https://twitter.com/rachelappel)
+- [LinkedIn](https://linkedin.com/in/rachelappel/)
+- [Blog](https://rachelappel.com)
 
 <br/>
 

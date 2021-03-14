@@ -22,7 +22,9 @@ share: true
 
 # Event Summary
 
+For February's event Maira, alongside one of her co-workers, walked through the implementation of the [https://dot.net](https://dot.net) website, some of their workflows, their accessability considerations and how they get feedback. 
 
+This talk comprised of both slides and diving into the code followed by Q&A from the attendees.
 
 <br/>
 
@@ -36,9 +38,16 @@ share: true
 
 Maira Wenzel is a Program Manager on the .NET team, working on the dot.net website.
 
+<br/>
+<img src="/assets/posts/2021-02-23/maira.png" alt="Maira presenting her talk" width="100%"/>
+<center>
+<i>Maira presenting her talk</i>
+</center>
+<br/>
+
 ## The Architecture of the .NET Website
 
-The talk explored the architecture and the implementation of the https://dot.net website, including some of its latest features such as the .NET Live TV, which uses Blazor WebAssembly.
+The talk explored the architecture and the implementation of the [https://dot.net](https://dot.net) website, including some of its latest features such as the .NET Live TV, which uses Blazor WebAssembly.
 
 Maira went over some of the things we've done in the past year since she joined the team, lessons learned from some live site incidents, and future plans for the site.
 
@@ -47,6 +56,9 @@ Maira went over some of the things we've done in the past year since she joined 
 - [Twitter](https://twitter.com/mairacw)
 - [LinkedIn](https://www.linkedin.com/in/mairaw/)
 - [GitHub](https://github.com/mairaw)
+- [Accessibility Insights for Web](https://accessibilityinsights.io/docs/en/web/overview/)
+- [.NET contributors](https://dotnet.microsoft.com/thanks)
+- [Usabilla Feedback](https://usabilla.com/)
 
 <br/>
 
